@@ -1,0 +1,42 @@
+{
+  "clientes": [
+    {
+      "id": "2",
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@brahian.com",
+      "empresa": "Codigo Con brahian"
+    },
+    {
+      "id": "4",
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@brahian.com",
+      "empresa": "Codigo Con brahian"
+    },
+    {
+      "id": "7983",
+      "nombre": "Brahian",
+      "empresa": "TradingUpFoundation",
+      "email": "ttreyygh@gmail.com",
+      "telefono": "3162799845",
+      "notas": "Quiere una pagina de trading"
+    },
+    {
+      "id": "9f75",
+      "nombre": "Nicolas",
+      "empresa": "Burguer Plan",
+      "email": "alejandro@email.com",
+      "telefono": "312345122",
+      "notas": "Quiere una pagina para vender hamburguesas"
+    },
+    {
+      "id": "6c54",
+      "nombre": "James Esteban",
+      "empresa": "Sealsparty",
+      "email": "salesman@email.com",
+      "telefono": "2141251233",
+      "notas": "Quiere una pagina ecommerce"
+    }
+  ]
+}
